@@ -32,4 +32,4 @@ We reserve the right to make changes to this privacy policy at any time. Any sig
 
 ## Contact
 
-For questions or concerns regarding the privacy policy of Simple Calculator Chrome Extension, please contact the development team via email at info@mgoconsulting.tech.
+For questions or concerns regarding the privacy policy of Simple Calculator Chrome Extension, please contact the development team via email at info@mgoconsulting.io
