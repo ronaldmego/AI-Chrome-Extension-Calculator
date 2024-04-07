@@ -1,5 +1,7 @@
 # Simple Calculator Chrome Extension
 
+The primary purpose of the Simple Calculator Chrome Extension is to provide users with a quick, easy-to-access tool for basic mathematical calculations directly from their Chrome browser. This extension is designed to offer a straightforward calculation functionality that can be used without navigating away from the user's current browser tab. It serves to enhance productivity and convenience by eliminating the need for external devices or applications for simple arithmetic operations such as addition, subtraction, multiplication, and division.
+
 ## Finding the Extension ID
 
 ### For End-Users
